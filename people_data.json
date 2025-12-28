@@ -1,0 +1,4328 @@
+[
+  {
+    "name": "Uwe Aickelin",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/815636",
+    "title": "Head of School",
+    "category": "Leadership"
+  },
+  {
+    "name": "Jenny Waycott",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/52243",
+    "title": "Deputy Head, Research",
+    "category": "Leadership"
+  },
+  {
+    "name": "Adrian Pearce",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/14397",
+    "title": "Deputy Head, Engagement",
+    "category": "Leadership"
+  },
+  {
+    "name": "Artem Polyvyanyy",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/817239",
+    "title": "Deputy Head of School (Academic Quality)",
+    "category": "Leadership"
+  },
+  {
+    "name": "Shaanan Cohney",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/640004",
+    "title": "Deputy Head of School (Academic Strategy)",
+    "category": "Leadership"
+  },
+  {
+    "name": "Antonette Mendoza",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/6868",
+    "title": "Director, Education",
+    "category": "Leadership"
+  },
+  {
+    "name": "Annaliese McPharlin",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Operations Manager, CIS",
+    "category": "Leadership"
+  },
+  {
+    "name": "Reeva Lederman",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/5168",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Ben Rubinstein",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/20074",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Ofir Turel",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/883811",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Shanika Karunasekera",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/18115",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Cezary Kaliszyk",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1063018",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Toby Murray",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/780796",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Kris Ehinger",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/850727",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Wafa Johal",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/892823",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Nir Lipovetzky",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/565558",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Jorge Goncalves",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/803639",
+    "title": "School Executive Member",
+    "category": "Leadership"
+  },
+  {
+    "name": "Chris Ewin",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/579778",
+    "title": "BScience (Computing and Software Systems) & Diploma of Computing",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Junhao Gan",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/831627",
+    "title": "Master of Information Technology",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Jean Honorio",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1066217",
+    "title": "Master of Data Science",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Jey Han Lau",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/385601",
+    "title": "Graduate Research Coordinator (Current Students)",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Bach Le",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/853277",
+    "title": "Master of Software Engineering",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Libo Liu",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/864133",
+    "title": "Master of Information Systems",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Ling Luo",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/849504",
+    "title": "Master of Computer Science, GDip (Computer Science)",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Roisin McNaney",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1117121",
+    "title": "Graduate Research Coordinator (Current Students)",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Jianzhong Qi",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/430525",
+    "title": "Graduate Research Coordinator (Future Students)",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Patanamon Thongtanunam",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/833794",
+    "title": "Graduate Research Coordinator (Current Students)",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Greg Wadley",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1536",
+    "title": "BDesign (Digital Technologies), BDesign (User Experience Design)",
+    "category": "Program coordinators"
+  },
+  {
+    "name": "Amani Abusafia",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1109200",
+    "title": "Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Atif Ahmad",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1601",
+    "title": "Professor",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Uwe Aickelin",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/815636",
+    "title": "Professor and Head of School",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Naveed Akhtar",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1050019",
+    "title": "Senior Lecturer in Machine Learning & ARC DECRA Senior Fellow",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Lachlan Andrew",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/15524",
+    "title": "Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Madeleine Antonellos",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/851650",
+    "title": "Tutor - Education Focussed",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Abel Armas Cervantes",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/822941",
+    "title": "Lecturer In Information Systems",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Arzoo Atiq",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1003878",
+    "title": "Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "James Bailey",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/351",
+    "title": "Professor",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Tim Baldwin",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/28799",
+    "title": "Professor",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Tingting Bi",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Renata Borovica-Gajic",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/794609",
+    "title": "ARC DECRA Fellow, Associate Dean (Diversity & Inclusion)",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Rajkumar Buyya",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/7930",
+    "title": "Redmond Barry Distinguished Professor",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Daniel Capurro",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/852679",
+    "title": "Associate Professor In Digital Health",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Huey Yee Chan",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/675952",
+    "title": "Workshop Coordinator",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Shanton Chang",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/3747",
+    "title": "Associate Dean (International)",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Geela Chee",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1017400",
+    "title": "Lecturer (Education Specialist) Cis",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Bin Chen",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1087324",
+    "title": "Lecturer In Computer Graphics",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Marc Cheong",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/862627",
+    "title": "Senior Lecturer - Information Systems",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Andrew Chester",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/418940",
+    "title": "Associate Lecturer (Education Specialist)",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Rajesh Chittor Sundaram",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/815704",
+    "title": "Associate Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Farhana Choudhury",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/835663",
+    "title": "Senior Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Winn Chow",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/4556",
+    "title": "Senior Lecturer - Subject Cluster",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Simon Coghlan",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/787891",
+    "title": "Senior Lecturer In Digital Ethics",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Trevor Cohn",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/20075",
+    "title": "Professor",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Shaanan Cohney",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/640004",
+    "title": "Senior Lecturer In Cyber Security",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Mike Conway",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/886714",
+    "title": "Senior Lecturer In Digital Health",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Tingru Cui",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/864434",
+    "title": "Senior Lecturer In Information Systems",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Simon D'Alfonso",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/180658",
+    "title": "Senior Lecturer In Digital Health",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Ting Dang",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1065466",
+    "title": "Senior Lecturer In Digital Innovation",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Philip Dart",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/56684",
+    "title": "Senior Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Christine de Kock",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1043001",
+    "title": "Lecturer / Doreen Thomas Fellow",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Trina Dey",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Teaching Specialist",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Rod Dilnutt",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/12147",
+    "title": "Senior Lecturer",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Suelette Dreyfus",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/7291",
+    "title": "Academic Media Specialist",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Tom Drummond",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/198786",
+    "title": "Professor At Melbourne Connect",
+    "category": "Surnames A-D"
+  },
+  {
+    "name": "Kris Ehinger",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/850727",
+    "title": "Associate Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Sarah Monazam Erfani",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/639922",
+    "title": "Associate Professor / ARC DECRA Fellow",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Chris Ewin",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/579778",
+    "title": "Senior Lecturer in Applied Computing",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Grady Fitzpatrick",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/686933",
+    "title": "Associate Lecturer, CIS Education Specialist",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Lea Frermann",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/835002",
+    "title": "Senior Lecturer / ARC DECRA Fellow",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Michael Fu",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1116223",
+    "title": "Lecturer, Software Engineering",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Junhao Gan",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/831627",
+    "title": "Senior Lecturer",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Nic Geard",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/432264",
+    "title": "Associate Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Adelaide Genay",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1051140",
+    "title": "Lecturer In Computer Graphics & Visualisation",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Martin Gibbs",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/15578",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Jorge Goncalves",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/803639",
+    "title": "Associate Professor In Human-computer Interaction",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Kathleen Gray",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/131878",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Caren Han",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1060937",
+    "title": "Senior Lecturer In Digital Innovation",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Eun-Jung Holden",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1053597",
+    "title": "Professor Of Digital Innovation",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Jean Honorio",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1066217",
+    "title": "Senior Lecturer In Machine Learning",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Eduard Hovy",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/887453",
+    "title": "Executive Director, Melbourne Connect",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Tawfiq Islam",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/845353",
+    "title": "Lecturer",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Wafa Johal",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/892823",
+    "title": "Associate Professor In Digital Innovation / ARC DECRA Fellow",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Cezary Kaliszyk",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1063018",
+    "title": "Professor In Theoretical Computing Science",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Shanika Karunasekera",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/18115",
+    "title": "Deputy Dean, Academic",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Michael Kirley",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/26129",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Vassilis Kostakos",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/799877",
+    "title": "Professor Of Human Computer Interaction",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Lars Kulik",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/97563",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Sherah Kurnia",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/6535",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Prof\n                            Marcello La Rosa",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Honorary Professorial Fellow",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Jey Han Lau",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/385601",
+    "title": "Senior Lecturer In Nlp",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Bach Le",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/853277",
+    "title": "Senior Lecturer / ARC DECRA Fellow",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Christopher Leckie",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/6335",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Reeva Lederman",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/5168",
+    "title": "Professor",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Jean Lee",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1108972",
+    "title": "Associate Lecturer (Education Specialist)",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Zoey Li",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1107461",
+    "title": "Associate Lecturer (Education Specialist)",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Tanya Linden",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/2020",
+    "title": "Senior Teaching Fellow",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Sophie Freeman",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/822710",
+    "title": "Tutor - Education Focussed",
+    "category": "Surnames E-L"
+  },
+  {
+    "name": "Nir Lipovetzky",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/565558",
+    "title": "Associate Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Feng Liu",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/958479",
+    "title": "Lecturer / ARC DECRA Fellow",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Libo Liu",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/864133",
+    "title": "Senior Lecturer In Information Systems",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Ling Luo",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/849504",
+    "title": "Senior Lecturer",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Julian Marx",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1026082",
+    "title": "Lecturer In Information Systems",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Sean Maynard",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1675",
+    "title": "Associate Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Antonette Mendoza",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/6868",
+    "title": "Education Specialist",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Dr\n                            Leila Meratian Esfahani",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Associate Lecturer, Education Specialist",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Thomas Minuzzo",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Tutor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Alistair Moffat",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/13222",
+    "title": "Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Toby Murray",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/780796",
+    "title": "Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Adel N. Toosi",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/689244",
+    "title": "Associate Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Bjorn Nansen",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/133029",
+    "title": "Associate Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Olya Ohrimenko",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/143325",
+    "title": "Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Eduardo Araujo Oliveira",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/653031",
+    "title": "Senior Lecturer",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Lianglu Pan",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/812746",
+    "title": "Associate Lecturer",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Udaya Parampalli",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/5683",
+    "title": "Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Adrian Pearce",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/14397",
+    "title": "Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Stella Peng",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/900451",
+    "title": "Associate Lecturer (Education Specialist)",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Thuan Pham",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/875569",
+    "title": "Senior Lecturer in Cybersecurity / ARC DECRA Fellow",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Artem Polyvyanyy",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/817239",
+    "title": "Associate Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Jianzhong Qi",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/430525",
+    "title": "Associate Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Maria Read",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/776966",
+    "title": "Lecturer",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Taehyun Rhee",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1084098",
+    "title": "Professor, Digital Innovation",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Christine Rizkallah",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/919951",
+    "title": "Senior Lecturer In Software Engineering",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Melissa Rogerson",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/692202",
+    "title": "Senior Lecturer in Human Computer Interaction / ARC DECRA Fellow",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Sarita Rosenstock",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1021043",
+    "title": "Lecturer In Fairness",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Ben Rubinstein",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/20074",
+    "title": "Professor",
+    "category": "Surnames M-R"
+  },
+  {
+    "name": "Hasti Samadi",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/800086",
+    "title": "Associate Lecturer",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Peter Schachte",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/456",
+    "title": "Senior Lecturer In Software Engineering",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Richard Sinnott",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/342078",
+    "title": "Professor Applied Science & Director, E-research",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Wally Smith",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/18782",
+    "title": "Professor",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Liz Sonenberg",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/16012",
+    "title": "Professor & Pro Vice-Chancellor (Systems Innovation)",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Lucy Sparrow",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/833179",
+    "title": "Lecturer",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Leon Sterling",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/13376",
+    "title": "Professor In Software Engineering",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Hira Syeda",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1073542",
+    "title": "Lecturer (Education Specialist)",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Egemen Tanin",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/22513",
+    "title": "Professor",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Patanamon Thongtanunam",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/833794",
+    "title": "Senior Lecturer / ARC DECRA Fellow",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Vi Truong",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/960270",
+    "title": "Lecturer (Education Specialist) Cis",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Ofir Turel",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/883811",
+    "title": "Professor, Information Systems Management",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "William Umboh",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1024118",
+    "title": "Lecturer In Computational Theory",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Andrew Valentine",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/892700",
+    "title": "Teaching Fellow",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Frank Vetere",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/6534",
+    "title": "Professor, Human-Computer Interaction",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Ekaterina Vylomova",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/738094",
+    "title": "Lecturer",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Greg Wadley",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1536",
+    "title": "Senior Lecturer",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Jenny Waycott",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/52243",
+    "title": "Professor",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Sarah Webber",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/122722",
+    "title": "Lecturer",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Joseph West",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/880727",
+    "title": "Associate Professor",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Xingliang Yuan",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1065384",
+    "title": "Associate Professor in Computer Systems",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Alex Zable",
+    "honorific": "Mr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/759257",
+    "title": "Associate Lecturer",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Mansooreh Zahedi",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/893364",
+    "title": "Lecturer In Software Engineering",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Justin Zobel",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/87273",
+    "title": "Redmond Barry Distinguished Professor and Pro Vice-Chancellor (Graduate & International Research)",
+    "category": "Surnames S-Z"
+  },
+  {
+    "name": "Alejandra Abril Pareja",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Nicole Barbee",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Cis Research Coordinator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Chris Bayliss",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Meg Senior Software Developer (Hats)",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Ernesto Calderon Caparo",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer-melbourne Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Vedant Chauhan",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer - Melbourne Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Marie Connett",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Business Development Manager",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Sonali Dias",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "HR Business Partner, FEIT",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Hai Do",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Academic Support Coordinator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Ran Duan",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Richard Gillespie",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Curator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Philip Greenwood",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "AURIN Technical Implementation Manager",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Melissa Hofsteter",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "School Administrator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "William Hu",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Endocrine Genomics Virtual Lab Software Developer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Zuo Huang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "James Jayaputera",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Glenn Tesla Jayaputera",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Associate Director, Melbourne Ereasearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Yunjie Jia",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Laura Juliff",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "School Administrator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Julius Kerstien",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Farzad Khodadadi",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer - Melbourne Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Jinyoung Kim",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Bin Liang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Yang Liu",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer, Melbourne E-research Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Andrew Lo",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Finance Advisor",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Caris Lockhart",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Officer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Annette McLeod",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Development Manager",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Annaliese McPharlin",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Operations Manager",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Denise Marinaro",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Executive Assistant",
+    "category": "Professional staff"
+  },
+  {
+    "name": "David Meggyesy",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Arvan Mohtaji",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Academic Programs Officer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Luca Morandini",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/499393",
+    "title": "AURIN Data Architect",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Imbi Neeme",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "School Administrator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Ghazal Karami Nogoorani",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Alwyn Pan",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Devops Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "David Price",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer - Melbourne Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Maxim Priymak",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Marlaina Read",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Communications And Engagement Lead",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Noah Scotti",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "School Administrator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Andrew Siebel",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Melbourne Data Analytics Platform Manager",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Sina Sinaie",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Anthony Stell",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Head,Clinical Informatics, Melb Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Shelley Sun",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Officer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "River Sun",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Andrew Sun",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Rio Susanto",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Jean Paul Vera Soto",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "William Voorsluys",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Hats - Technical Project Manager",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Robin Wan",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer - Melbourne Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Jingcheng Wang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer, Melbourne Eresearch Group",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Graham Watson",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Academic Support Coordinator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Ivo Widjaja",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Senior Ui Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Chin Raun Wong",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Effy Xia",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Incident and Student Conduct Management Officer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Wei Yan",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Academic Support Coordinator",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Jie Yang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Junior Software Developer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Ansonne Yap",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Executive Officer, Defence Science Institute",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Chen Zhang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Xin Zhang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Developer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Wei Zhao",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Software Engineer",
+    "category": "Professional staff"
+  },
+  {
+    "name": "Basim Azam",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1065421",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Aaron Bembenek",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1049189",
+    "title": "Research Fellow - AI Human Teams for Cybersecurity",
+    "category": "Research staff"
+  },
+  {
+    "name": "Michelle Blom",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/178724",
+    "title": "Senior Research Fellow In Automated Planning",
+    "category": "Research staff"
+  },
+  {
+    "name": "Dr\n                            Nestor Cabello Wilson",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Fellow in Artificial Intelligence",
+    "category": "Research staff"
+  },
+  {
+    "name": "Andrew Cullen",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/853993",
+    "title": "Senior Research Fellow in Adversarial Machine Learning",
+    "category": "Research staff"
+  },
+  {
+    "name": "Martin Cyster",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1089640",
+    "title": "Research Fellow, Model-based Decision Support",
+    "category": "Research staff"
+  },
+  {
+    "name": "Zahra Dasht Bozorgi",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/894107",
+    "title": "Research Fellow, Digital",
+    "category": "Research staff"
+  },
+  {
+    "name": "Fjalar de Haan",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/679318",
+    "title": "Senior Research Fellow - Research Focussed",
+    "category": "Research staff"
+  },
+  {
+    "name": "Mohammad Golzarijalal",
+    "honorific": "Mr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/866867",
+    "title": "Research Fellow, Modelling & Optimisation",
+    "category": "Research staff"
+  },
+  {
+    "name": "Markus Hiller",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/940677",
+    "title": "Research Fellow in AI",
+    "category": "Research staff"
+  },
+  {
+    "name": "Hanxun Huang",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/888249",
+    "title": "Postdoctoral Research Fellow, Generative AI",
+    "category": "Research staff"
+  },
+  {
+    "name": "Yujin Huang",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1029916",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Kemal Kurniawan",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/869330",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Chunhua Liu",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/877696",
+    "title": "Postdoctoral Research Fellow In Nlp Technology",
+    "category": "Research staff"
+  },
+  {
+    "name": "Guanli Liu",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/856434",
+    "title": "Postdoctoral Research Fellow in AI-driven Databases",
+    "category": "Research staff"
+  },
+  {
+    "name": "Mansoureh Maadi",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/891740",
+    "title": "Research Fellow - Digital, The ARC Digital Bioprocess Development Hub",
+    "category": "Research staff"
+  },
+  {
+    "name": "Neil Marchant",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/565139",
+    "title": "Research Fellow In Machine Learning",
+    "category": "Research staff"
+  },
+  {
+    "name": "Andres Munoz",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/638622",
+    "title": "Senior Research Fellow, Optima",
+    "category": "Research staff"
+  },
+  {
+    "name": "Bastian Oetomo",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/774950",
+    "title": "Research Fellow - Digital, The ARC Digital Bioprocess Development Hub",
+    "category": "Research staff"
+  },
+  {
+    "name": "Dr\n                            Yulia Otmakhova",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Fellow, NLP/Media Bias",
+    "category": "Research staff"
+  },
+  {
+    "name": "Lianglu Pan",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/812746",
+    "title": "Associate Lecturer",
+    "category": "Research staff"
+  },
+  {
+    "name": "Amirmohammad Pasdar",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1065866",
+    "title": "Postdoctoral Research Fellow in Software Security",
+    "category": "Research staff"
+  },
+  {
+    "name": "Dr\n                            Giulio Passerotti",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Kushani Perera",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/931111",
+    "title": "Elizabeth & Vernon Puzey Fellowship",
+    "category": "Research staff"
+  },
+  {
+    "name": "Lingyan Ruan",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1102699",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Long Song",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/929611",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Sasha Soraine",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1098599",
+    "title": "Research Fellow Human Computer Interaction",
+    "category": "Research staff"
+  },
+  {
+    "name": "Thinh Truong",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Danny Xu",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1120327",
+    "title": "Research Fellow In Computer Vision",
+    "category": "Research staff"
+  },
+  {
+    "name": "Peiyu Yang",
+    "honorific": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1129059",
+    "title": "Research Fellow, AI Reliability",
+    "category": "Research staff"
+  },
+  {
+    "name": "Zesheng Ye",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1066601",
+    "title": "Research Fellow, Trustworthy Machine Learning",
+    "category": "Research staff"
+  },
+  {
+    "name": "Pengfei Yin",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Research Assistant in Digital Health",
+    "category": "Research staff"
+  },
+  {
+    "name": "Cameron Zachreson",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/872718",
+    "title": "Research Fellow In Modelling Airborne Transmission",
+    "category": "Research staff"
+  },
+  {
+    "name": "Wei Zhao",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/879158",
+    "title": "Research Fellow - Human-Computer Interaction",
+    "category": "Research staff"
+  },
+  {
+    "name": "Ying Zhao",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1079848",
+    "title": "Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Zhuo Zhang",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Associate Research Fellow - Specialist",
+    "category": "Research staff"
+  },
+  {
+    "name": "Haolan Zhan",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Postdoctoral Research Fellow",
+    "category": "Research staff"
+  },
+  {
+    "name": "Amanda Belton",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/865342",
+    "title": "Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Craig Butler",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/690465",
+    "title": "Enterprise Fellow, Defence Science",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Kim Doyle",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/637022",
+    "title": "Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Noel Faux",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/185634",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Emily Fitzgerald",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/196181",
+    "title": "Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Zaher Joukhadar",
+    "honorific": "Mr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/660666",
+    "title": "Senior Research Fellow",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Kabir Manandhar Shrestha",
+    "honorific": "Mr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/892683",
+    "title": "Research Data Specialist (HASS)",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Damien Mannion",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1031161",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Gabriele Marini",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/831603",
+    "title": "Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Aleks Michalewicz",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/27349",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Mel Mistica",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/3575",
+    "title": "Senior Research Fellow, Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Simon Mutch",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/484613",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Priyanka Nair-Turkich",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/783636",
+    "title": "Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Usha Nattala",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/746573",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Mar Quiroga",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/865708",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Daniel Russo-Batterham",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/551741",
+    "title": "Senior Research Fellow, Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Edoardo Tescari",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/428364",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Karen Thompson",
+    "honorific": "Ms",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/866064",
+    "title": "Senior Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Robert Turnbull",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/877006",
+    "title": "Senior Research Fellow, Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Geordie Zhang",
+    "honorific": "Mr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/4381",
+    "title": "Research Data Specialist",
+    "category": "Academic specialists"
+  },
+  {
+    "name": "Abir Naskar",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/abir-naskar",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Afsaneh Hasanebrahimi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/afsaneh-hasanebrahimi",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Anh Pham",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/anh-pham",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Anudeex Shetty",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/anudeex-shetty",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Aryan Yazdan Parast",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/aryan-yazdan-parast",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Aso Mahmudi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/aso-mahmudi",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Behzad Moradi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/behzad-moradi",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Canaan Yung",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/canaan-yung",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Chao Lei",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/chao-lei",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Chen Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/chen-wang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Chengyi Cai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/chengyi-cai",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Chenhao Gu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/chenhao-gu",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Christopher Guest",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/christopher-guest",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Craig Lewis",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/craig-lewis",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Damien Curran",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/damian-curran",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "David Adams",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/david-adams",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Dehiwala Wijesinghe",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/dehiwala",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Demian Aaron Inostroza Amestica",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/demian-aaron-inostroza-amestica",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Diana Yang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/diana-yang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Dimuthu Kariyawasan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/dimuthu-lakmal",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Dingyang Lyu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/dingyang-lyu",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Dinuka Manohara de Zoysa",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/dinuka-manohara-de-zoysa",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Fajri Koto",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/fajri-koto",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Farzaneh Zirak",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/farzaneh-zirak",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Fengze Sun",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/fengze-sun",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Giacomo Rosa",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/giacomo-rosa",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Gisela Vallejo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/gisela-vallejo",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Haitian He",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/haitian-he",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Haoran Zhao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/haoran-zhao",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Haoyuan Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/haoyuan-li",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Harindu Ashan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/harindu-ashan-kankanange",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Harvey Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/harvey-zhang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Heethanjan Kanagalingam",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/heethanjan-kanagalingam",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Hesam Asadollahzadeh",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/hesam-asadollahzadeh",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Hong Yi Lin",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/hong-yi-lin",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Hugo Lyons Keenan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/hugo-lyons-keenan",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Hyunsuk (David) Chung",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/hyunsuk-david-chung",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Isura Manchanayaka",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/isura-manchanayaka",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jemima Kang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jemima-kang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jiacheng Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jiacheng-zhang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jiaheng Dong",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jiaheng-dong",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jiajia Song",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jiajia-song",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jiani Xie",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jiani-xie",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jie Huang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jie-huang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jie Yang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jie-yang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jinhao Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jinhao-li",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jinrui Yang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jinrui-yang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Jinxi Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/jinxi-wang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Johnson Zhou",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/johnson-zhou",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Kasra Kamali",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/kasra-kamali",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Kejian Cui",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/kejian-cui",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Kevin McDonald",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/kevin-mcdonald",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Khawar Islam",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/khawar-islam",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Laura Simoes Camargo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/laura-camargo",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Liu Liu Chen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/liu-liu-chen",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Lyndon Benke",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/lydon-benke",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Maria Bulychev",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/maria-bulychev",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Marzieh Parvaneh Akhteh Khaneh",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/marzieh-parvaneh-akhteh-khaneh",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Mashnoon Islam",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/mashnoon-islam",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Matteo Guida",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/matteo-guida",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Mehreen Mubashar",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/mehreen-mubashar",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Meng Cai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/meng-cai",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Ming-Bin Chen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/ming-bin-chen",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Mitra Heidari",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/mitra-heidari",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Mohammad Reza Ghasemi Madani",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Mohammed Ishaq Mohammed Shoeb Ansari",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/mohammed-ishaq-mohammed-shoeb-ansari",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Mojgan Kouhounestani",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/mojgan-kouhounestani",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Muqing Guo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/muqing-guo",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Muxing Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/muxing-li",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Nadeeshan Dissanayake",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/nadeeshan-dissanayake",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Navid Akhavan Attar",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/navid-akhavan-attar",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Nicholas Liang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/nicholas-liang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Nimeshika Udayangani",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/nimeshika-udayangani",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Oshada Jayasinghe",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/oshada-jayasinghe",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Pagnarasmey Pit",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/pagnarasmey-pit",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Pagnarith Pit",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/pagnarith-pit",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Paul Ou",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/paul-ou",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Priyanka Pillai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/priyanka-pillai",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Ran Liang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/ran-liang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Raphael Merx",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/raphael-merx",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Rinu Ann Sebastian",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/rinu-ann-sebastian",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Roben Delos Reyes",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/roben-delos-reyes",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Robert Langtry",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/robert-langtry",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Rui Xing",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/rui-xing",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Ruijang Dong",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/ruijang-dong",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Sameera Vithanage",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/sameera-vithanage",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Sandra Arcos Holzinger",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/sandra-arcos-holzinger",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Saumya Hansanie Karunadhika",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/saumya-hansanie-karunadhika",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Sayantan Dasgupta",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/sayantan-dasgupta",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Shaona Cheng",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/shaona-cheng",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Shengxiang Gao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/shengxiang-gao",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Shuhe Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/shuhe-wang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Shuo Yang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/shuo-yang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Sing Chee Tan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/sing-chee-tan",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Siyi Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/siyi-wang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Songlin Du",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/songlin-du",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Soyoun Won",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/soyoun-won",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Susan Sheldrick",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/susan-sheldrick",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Tao Shi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/tao-shi",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Thi Xuan May Le",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/thi-xuan-may-le",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Thye Shan Ng",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/thye-shan-ng",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Tianyi Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/tianyi-zhang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Tien Dung Pham",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/tien-dung-pham",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Tingxuan Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/tingxuan-wang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Tom Harris",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/tom-harris",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Tuan Duong (Tony) Trinh",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/tuan-duong-tony-trinh",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Viktoria Schram",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/viktoria-schram",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Vincent Barbosa Vaz",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/vincent-barbosa-vaz",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Wachiraphan Charoenwet",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/wachiraphan-charoenwet",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Xueqi Ma",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/xueqi-ma",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yanbei Jiang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yanbei-jiang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yang Xiao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yang-xiao",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yige Song",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yige-song",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yilin Geng",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yilin-geng",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yiyi Guo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yiyi-guo",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yuchen Luo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yuchen-luo",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yuhao Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yuhao-li",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yuhao Tong",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yuhao-yong",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Yuxiang Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/yuxiang-wang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zaher Joukhadar",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zaher-joukhadar",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zewei Shi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zewei-shi",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zheng Wei Lim",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zheng-wei-lim",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zhenkai Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zhenkai-zhang",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zhiaho Pei",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zhihao-pei",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zhijian Zhou",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zhijian-zhou",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zihan Xu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zihan-xu",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Zuqing Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/artificial-intelligence/zuqing-li",
+    "title": "",
+    "category": "Artificial intelligence"
+  },
+  {
+    "name": "Abhishek Sawaika",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/abhishek-sawaika",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Anh Ho",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/anh-ho",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Chanuka Avishka Sandeepa Hewa Kaluannakkage",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/chanuka-avishka-sandeepa-hewa-kaluannakkage",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Cong-Thanh Le",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/cong-thanh-le",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Daghash Alqahtani",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/daghash-alqahtani",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Duneesha Tharangie Fernando",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/duneesha-tharangie-fernando",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Elisa Shiohi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/elisa-shiohi",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Fatemeholsadat Hossini Saidi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/fatemeholsadat-hossini-saidi",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Faxing Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/faxing-wang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Fengnian Lin",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/fengnian-lin",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Gerald Huang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/gerald-huang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Haoyu Bai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/haoyu-bai",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Haoyu Gao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/haoyu-gao",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Hongwei Yin",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/hongwei-yin",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Hossein Hosseini",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/hossein-hosseini",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Huy Nguyen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/huy-nguyen",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Jie Zhao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/jie-zhao",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Kanin Kearpimy",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/kanin-kearpimy",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Kanwal Aslam Syed",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/kanwal-aslam-syed",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Kasun Amarasinghe",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/kasun-amarasinghe",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Kwangsuk Song",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/kwangsuk-song",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Lankadinee Rathuwadu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/lankadinee-rathuwadu",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Larissa Salerno",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/larissa-salerno",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Licheng Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/licheng-zhang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Limalka Sadith Weerakkody Mudiyanselage",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/limalka-sadith-weerakkody-mudiyanselage",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Luca Morandini",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/luca-morandini",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Luxin Fang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/luxin-fang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Manh Dung Nguyen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/manh-dung-nguyen",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Mansour Safar Poor",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/mansour-safar-poor",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Marjan Azimi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/marjan-azimi",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Mike Zhuang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/mike-zhuang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Ming Chen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/ming-chen",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Minh Hieu Huynh",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/minh-hieu-huynh",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Murtaza Rangwala",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/murtaza-rangwala",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Neil Vyas",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/neil-vyas",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Peerachai Banyongrakkul",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/peerachai-banyongrakkul",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Philip Cervenjak",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/philip-cervenjak",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Pilar Selene Linares Arevalo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/pilar-selene-linares-arevalo",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Prabhjot Singh",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/prabhjot-singh",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Qifan Deng",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/qifan-deng",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Reyhaneh Goli",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/reyhaneh-goli",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Saeed Nasehibasharzad",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/saeed-nasehi-basharzad",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Sahan Hemachandra",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/sahan-hemachandra",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Samuel Thomas",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/samuel-thomas",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Shen Zhan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/shen-zhan",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Shuzhi Gong",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/shuzhi-gong",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Siddharth Agarwal",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/siddharth-agarwal",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Stephen Luan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/stephen-luan",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Thanh-Hoa Nguyen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/thanh-hoa-nguyen",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Tian Qiu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/tian-qiu",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Tianyu Qi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/tianyu-qi",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Unaiza Alvi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/unaiza-alvi",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Viet Hoang Luu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/viet-hoang-luu",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Vinay Kabadi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/vinay-kabadi",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Vincent Jackson",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/vincent-jackson",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Weijia Jia",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/weijia-jia",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Wenqi Yan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/wenqi-yan",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Wentao Gao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/wentao-gao",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Xiangyu Hui",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/xiangyu-hui",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Xiao Sun",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/xiao-sun",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Xing Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/xing-li",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Xu Bai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/xu-bai",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Yifan Sun",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/yifan-sun",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Yifan Xie",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/yifan-xie",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Yujin Huang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/yujin-huang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhe Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhe-wang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhenzhi Lai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhenzhi-lai",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhexiang Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhexiang-zhang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhibo Xu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhibo-xu",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhiyu Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhiyu-wang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhonghong Lai",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhonghong-lai",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhuo Chen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhuo-chen",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhuo Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhuo-zhang",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Zhuowen Chen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/computer-science/zhuowen-chen",
+    "title": "",
+    "category": "Computer science"
+  },
+  {
+    "name": "Adam Davies",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/adam-davies",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Antony Linden",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/antony-linden",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Auzi Asfarian",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/auzi-asfarian",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Ava Karusoo-Musumeci",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/ava-karusoo-musumeci",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Cherie Mei Yee Sew",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/cherie-mei-yee-sew",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Chris Nelson",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/chris-nelson",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Chuanzhang Chen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/chuanzhang-chen",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Eleanor Seale",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/eleanor-seale",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Emma Baillie",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/emma-baillie",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Geoffrey Hill",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/geoffrey-hill",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Huiwen Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/huiwen-zhang",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Jarod Govers",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/jarod-govers",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Jess Rowlings",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/jess-rowlings",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Jian Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/jian-zhang",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Joe Brailsford",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/joe-brailsford",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Josephine Delore",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/josephine-delore",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Khanh Nghiem",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/khanh-nghiem",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Le Fang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/le-fang",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Lina Brockmeier",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/lina-brockmeier",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Lingxiao Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/lingxiao-li",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Matthew Sidji",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/matthew-sidji",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Mayura Manawadu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/mayura-manawadu-manawaduge",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Mingjun Yang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/mingjun-yang",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Muhammad Bilal",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/muhammad-bilal",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Nasalifya Namwinga",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/nasalifya-namwinga",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Piumi Perera",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/piumi-perera",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Ruby Edwards",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/ruby-edwards",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Samangi Wadinambi Arachchi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/samangi-wadinambi-arachchi",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Sara Khorasani",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/sara-khorasani",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Sarah Victoria Schoembs",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/sarah-victoria-schoembs",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Saumya Pareek",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/saumya-pareek",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Sayed Ramtin Tabatabaei Moghaddam",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/sayed-ramtin-tabatabaei-moghaddam",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Sehyuk Park",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/sehyuk-park",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "SeungWon Jeong",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/seungwon-jeong",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Shiquan Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/shiquan-zhang",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Songyan Teng",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/songyan-teng",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Stella Yuan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/stella-yuan",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Suwani Gunasekara",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/suwani-gunasekara",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Tharaka Ratnayake",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/tharaka-ratnayake",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Thomas Byers",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/thomas-byers",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Toni McLennan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/toni-mclennan",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Wendy Cavenett",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/wendy-cavenett",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Xanthe Lowe-Brown",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/xanthe-lowebrown",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Yan Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/yan-zhang",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Ying Ma",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/ying-ma",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Yushan Xing",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/yushan-xing",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Zeinab Moghaddasi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/zeinab-moghaddasi",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "Zhaohengy Shi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/human-computer-interaction/zhaoheng-shi",
+    "title": "",
+    "category": "Human-Computer Interaction"
+  },
+  {
+    "name": "ABM Nayeem",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/abm-nayeem",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Adam Caldwell",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/adam-caldwell",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Aidan McLoughney",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/aidan-mcloughney",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Anandi Sethunga",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/anandi-sethunga",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Andrei Tour",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/andrei-tour",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Ashley Anderson",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/ashley-anderson",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Aulia Pradipta",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/aulia-pradipta",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Aurélie Leribaux",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/aurelie-leribaux",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Catherine Hills",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/catherine-hills",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Chen Luo",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/chen-luo",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "David Eccles",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/david-eccles",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Davor Petreski",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/davor-petreski",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Deanna Coralage",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/deanna-coralage",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Dilang Tan",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/dilang-tan",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Fang Sun",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/fang-sun",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Farnaz Pirasteh",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/farnaz-pirasteh",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Goran Khursheed",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/goran-khursheed",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Guanyu Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/guanyu-wang",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Hanan Alkhammash",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/hanan-alkhammash",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Hani Arab",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/hani-arab",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Heidi Peart",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/heidi-peart",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Herman Wahidin",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/herman-wahidin",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Hootan Zhian",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/hootan-zhian",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Hui Rao",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/hui-rao",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Jeremy Lindsay",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/jeremy-lindsay",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Jian Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/jian-li",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Jiawei Tong",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/jiawei-tong",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "John Paul Cruz",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/john-paul-cruz",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Kejian Cui",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/kejian-cui",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Martin Chesbrough",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/martin-chesbrough",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Maryam Alshehri",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/maryam-alshehri",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Mazino Onibere",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/mazino-onibere",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Md (Aktar) Aktaruzzaman",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/md-aktar-aktaruzzaman",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Mingxin Zhang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/mingxin-zhang",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Mohammad Ariful Islam",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/mohammad-ariful-islam",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Mohammed Alsubaie",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/mohammed-alsubaie",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Muku Akasaka",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/muku-akasaka",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Nataliia (Natasha) Tashevtseva",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/nataliia-natasha-tashevtseva",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Nick Howard",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/nick-howard",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Nimra Akram",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/nimra-akram",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Noushin Nazarian",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/noushin-nazarian",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Pengfei Yin",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/pengfei-yin",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Qianyi Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/qianyi-li",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Qingtan Shen",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/qingtan-shen",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Rahmat Fadhli",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/rahmat-fadhli",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Raif Al Bedewi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/raif-al-bedewi",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Rashika Bahl",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/rashika-bahl",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Sam Pitruzello",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/sam-pitruzzello",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Sarah Alzahrani",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/sarah-alzahrani",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Scott Ainslie",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/scott-ainslie",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Suhail Najeeb",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/suhail-najeeb",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Thakshila Dilrukshi",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/thakshila-dilrukshi",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Tian Li",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/tian-li",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Timothy Kariotis",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/timothy-kariotis",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Victoria Sonnemans",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/victoria-sonnemans",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Wenjun Zhou",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/wenjun-zhou",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Xiaojun Xu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/xiaojun-xu",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Xinyu He",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/xinyu-he",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Xunye Tian",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/xunye-tian",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Yaru Liu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/yaru-liu",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Yolanda Chintanu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/yolanda-chintanu",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Yong Zhu",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/yong-zhu",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Zitong Wang",
+    "honorific": "",
+    "profile_url": "https://cis.unimelb.edu.au/people/graduate-researchers/information-systems/zitong-wang",
+    "title": "",
+    "category": "Information systems"
+  },
+  {
+    "name": "Steven Baker",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/779540",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Kasun Bandara",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/884517",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Zhifeng Bao",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/806696",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Daniel Beck",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/672197",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Jim Bezdek",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/22301",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Joseph Bonneau",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/864577",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Rachelle Bosua",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/18252",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "George Buchanan",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/793596",
+    "title": "Honorary fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Chris Culnane",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/780936",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Partha De",
+    "honorific": "Mr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/822948",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Frank Dignum",
+    "honorific": "A/Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/5489",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "A/Prof\n                            Virginia Dignum",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Tilman Dingler",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/814587",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Paul Dourish",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/605138",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Hong Jia",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/1071577",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Qiuhong Ke",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/861653",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Ryan Kelly",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/813635",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Jarrod Knibbe",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/860467",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Daniel Ma",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/776741",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Dana McKay",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/778116",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Timothy Miller",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/185221",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Mr\n                            Curtis Murray",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Humza Naseer",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/718900",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Lida Rashidi",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/676939",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Ellie Ripley",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/342668",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Peter Seddon",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/12816",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Mr\n                            Jurij Semkiw",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Honorary Senior Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Graeme Shanks",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/4529",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Rob Sison",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/877887",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Harald Sondergaard",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/13416",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Peter Stuckey",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/14142",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Yuan Sun",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/777387",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Benjamin Tag",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/852535",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Farbod Taymouri",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/842916",
+    "title": "Honorary Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "A/Prof\n                            Peter Thorne",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Honorary Principal Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Christoph Treude",
+    "honorific": "Dr",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/893490",
+    "title": "Honorary Principal Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Andrew Turpin",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/28732",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Eduardo Velloso",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/710004",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Karin Verspoor",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/458973",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "Tony Wirth",
+    "honorific": "Prof",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/51117",
+    "title": "Honorary Professorial Fellow",
+    "category": "Honorary staff"
+  },
+  {
+    "name": "A/Prof\n                            Callum Wright",
+    "honorific": "",
+    "profile_url": "N/A",
+    "title": "Honorary Principal Fellow",
+    "category": "Honorary staff"
+  }
+]
